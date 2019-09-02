@@ -1,0 +1,6 @@
+5.3.1f1:2.1.0.0
+StandaloneWindows
+D:/Travail/Editor/Data/Managed/UnityEngine.dll
+D:/Travail/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Travail/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Travail/Editor/Data/Managed/UnityEditor.dll
